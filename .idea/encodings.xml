@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/libs/volley.jar" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/cycleview/AppControlApplication.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/cycleview/config/Config.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/cycleview/volley/BitmapCache.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/cycleview/volley/VolleyPostRequest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/cycleview/volley/VolleyResponseListener.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/cloudtv/hahong/cycleview/volley/VolleyUtils.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
+
